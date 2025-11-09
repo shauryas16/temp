@@ -1,5 +1,5 @@
 # Matrix Build Challenge
 
-**Email:** your-email@example.com
+**Email:** 24f2008128@ds.study.iitm.ac.in
 
 This repository demonstrates GitHub Actions matrix build with artifact uploads.
